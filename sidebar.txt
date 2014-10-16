@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[but:home|Door43 (but)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-but|d43-but repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-but/archive/master.zip|d43-but.zip]]
+
+**Recent Changes**
+{{changes>ns = but}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/but|Ethnologue data]]
+
